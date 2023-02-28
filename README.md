@@ -1,7 +1,7 @@
 # Hello, I'm Camila Muñoz - [cfmunoz8][linkedin] 👋 
 
-<h1 align="center">Hello, I'm Camila Muñoz - [cfmunoz8][linkedin] 👋 </h1>
-<h2 align="center">I'm a passionate full stack developer jr. and a nurse from Chile.</h3>
+## I'm Fullstack developer jr. and Nurse from Chile!!
+
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with projects
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/cfmunoz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cfmunoz8" height="30" width="40" /></a>
 <a href="https://fb.com/cfmunoz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cfmunoz8" height="30" width="40" /></a>
 <a href="https://instagram.com/cami.fmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cami.fmo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cfmunoz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cfmunoz8" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cfmunoz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cfmunoz8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
